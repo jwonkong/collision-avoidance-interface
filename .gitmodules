@@ -1,0 +1,6 @@
+[submodule "Drivers"]
+	path = Drivers
+	url = http://git.acelab.ai:8080/acelab/ecu/stm32g473/drivers.git
+[submodule "Middlewares"]
+	path = Middlewares
+	url = http://git.acelab.ai:8080/acelab/ecu/stm32g473/middlewares.git
